@@ -1,16 +1,20 @@
-## Hi there 👋
+##  :smiley: Holaa! soy Austin
+Estudiante de la uca - Ingenería Informática
 
-<!--
-**Ausstin-xD/Ausstin-xD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta la tecnologia, jugar, estudiar y viajar.
 
-Here are some ideas to get you started:
+## Un poco más de mí
+:pizza: Disfruto comiendo cosas ricas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:car: Me gusta salir a distintos lugares del país lod fines de semana.
+
+:snowman: Me siento mejor cuando hace frio. 
+
+:diamonds: Me llaman la atención los juegos de mesa y apuesta.
+
+## Algunos sueños 
+:airplane: Viajar mucho más con mi familia
+
+Terminar la carrera en la uca 
+
+Aprendrer más idiomas
