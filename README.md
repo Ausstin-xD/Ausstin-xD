@@ -15,6 +15,6 @@ Me gusta la tecnologia, jugar, estudiar y viajar.
 ## Algunos sueños 
 :airplane: Viajar mucho más con mi familia
 
-Terminar la carrera en la uca 
+:checkered_flag: Terminar la carrera en la uca 
 
-Aprendrer más idiomas
+:books: Aprendrer más idiomas
